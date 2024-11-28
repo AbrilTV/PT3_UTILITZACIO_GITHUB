@@ -13,3 +13,9 @@ ehthumbs.db
 
 # Fitxers de dependències de NuGet
 .nuget/
+
+# Fitxers temporals i de configuració específics
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
