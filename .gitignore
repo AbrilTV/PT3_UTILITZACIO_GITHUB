@@ -6,3 +6,7 @@ obj/
 .vs/
 .vscode/
 .idea/
+
+# Fitxers temporals de Windows
+Thumbs.db
+ehthumbs.db
