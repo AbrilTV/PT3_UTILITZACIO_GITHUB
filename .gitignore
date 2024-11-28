@@ -1,3 +1,8 @@
 # Carpetes de compilació
 bin/
 obj/
+
+# Fitxers del Visual Studio
+.vs/
+.vscode/
+.idea/
