@@ -10,3 +10,6 @@ obj/
 # Fitxers temporals de Windows
 Thumbs.db
 ehthumbs.db
+
+# Fitxers de dependències de NuGet
+.nuget/
