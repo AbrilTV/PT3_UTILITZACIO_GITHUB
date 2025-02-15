@@ -30,7 +30,7 @@ class Program
         Cotxe vehicle5 = new Cotxe("clio", "renaoult", 2012, 250.0,2);
         
         // Crear un nou vehiccle per la edició de fitxers de part pt3 punt 3
-        Cotxe vehicle5 = new Cotxe("corsa", "opel", 2012, 250.0,2);
+        Cotxe vehicle5 = new Cotxe("corsa", "opel", 2023, 250.0,2);
         
         // Mostrar la informació del segon vehicle
         vehicle4.MostrarInformacio();
