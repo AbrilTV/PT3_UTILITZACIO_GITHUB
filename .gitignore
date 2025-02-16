@@ -19,9 +19,3 @@ ehthumbs.db
 *.suo
 *.userosscache
 *.sln.docstates
-
-#Claus públiques i privades
-*.pub
-   id_rsa
-   id_rsa.pub
-   
